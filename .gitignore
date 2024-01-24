@@ -1,0 +1,6 @@
+*tfstate*
+*plan*
+ansible
+ansible/*
+.terraform
+*pem
